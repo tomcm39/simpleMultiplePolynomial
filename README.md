@@ -12,3 +12,8 @@ We will discuss some models students have proposed and ways to communicate these
 ### Data
 The dataset and the data dictionary are included in the folder called data.
 
+### Questions
+
+* How would you explain SSE?
+* How would you explain your model?
+
