@@ -9,5 +9,6 @@ Include a visual and quantitative method for assessing whether some models may b
 
 We will discuss some models students have proposed and ways to communicate these models to a lay audience.
 
-
+### Data
+The dataset and the data dictionary are included in the folder called data.
 
