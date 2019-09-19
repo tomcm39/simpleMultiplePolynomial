@@ -1,6 +1,6 @@
 ## LAB for Class04
 
-**The Goal**
+**The Goal:**
 Given a data set containing characteristics about the Boston housing market, explore methods for predicting housing prices.
 
 You'll need to clone this repository using RStudio first. 
